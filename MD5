@@ -1,0 +1,12 @@
+4f88d87526f82628d3db61e9be2bf6d5 *DESCRIPTION
+aae2b9cb911c41049d95b19711760a64 *NAMESPACE
+4aad9d77f719e0f41d89a023cf212183 *R/data_mrs.R
+f6859cdf72d8bcef223b87239439e9df *R/data_transport.R
+11c44b4cf131b6cb3dd6a5617df7c240 *R/rbentfit.R
+35725453daa7a64de0424a24846dfb53 *R/rbenttest.R
+2558183dfeaab40292e6b1e6a1314c7f *data/data_mrs.rda
+df3f773a6f1b2d2f3309a5829c147041 *data/data_transport.rda
+940d8ee3e0a7a91ac62253850dba2d89 *man/data_mrs.Rd
+f85d0af04a44a572b398fd18c5f5be48 *man/data_transport.Rd
+07acf47a85d1aeab4bdb5888a71078ff *man/rbentfit.Rd
+a9fe1657bd15a5206819d0a081dd59b7 *man/rbenttest.Rd
